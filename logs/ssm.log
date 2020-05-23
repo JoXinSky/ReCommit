@@ -1,0 +1,7 @@
+[INFO] [2020-05-15 21:13:45][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@445b84c0: startup date [Fri May 15 21:13:45 CST 2020]; root of context hierarchy
+[INFO] [2020-05-15 21:13:46][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [applicationContext.xml]
+[INFO] [2020-05-15 21:13:46][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [application-dao.xml]
+[INFO] [2020-05-15 21:13:46][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [application-service.xml]
+[INFO] [2020-05-15 21:13:46][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2020-05-15 21:13:46][org.springframework.jdbc.datasource.DriverManagerDataSource]Loaded JDBC driver: com.mysql.jdbc.Driver
+[INFO] [2020-05-15 21:13:47][com.ssm.TestMyBatis]{"age":24,"id":1,"password":"sfasgfaf","userName":"测试"}
